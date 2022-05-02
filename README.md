@@ -48,6 +48,7 @@
 
 ## How to build
 
+Direcciones en [español](spanish.md) 
 
 Make sure you have the following tools installed on your computer
 
