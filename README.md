@@ -71,13 +71,13 @@ git checkout develop
 yarn install
 ```
 
-4.  Run the app
+3.  Run the app
 
 ```
 yarn dev
 ```
 
-5. Optional: Run the app in docker
+4. Optional: Run the app in docker
 
 Requirements: [Docker](https://docs.docker.com/get-docker/)
 
